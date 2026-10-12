@@ -1,0 +1,6 @@
+{
+  "name": "Airport Otel — Luxury Hotel Adana",
+  "description": "Official luxury hotel website for Airport Otel located in Seyhan, Adana, Türkiye. Featuring 4 dedicated pages, booking inquiry system, room showcase, and curated gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
